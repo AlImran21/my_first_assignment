@@ -1,0 +1,241 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.first-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 10%;   
+}
+.left-div1 {
+    width: 40%;
+}
+.left-border-style {
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, #ff7979, #badc58, #eb4d4b, #6ab04c);
+    border-image-slice: 1;
+}
+.first-heading {
+    font-size: 50px; 
+    color: #2C3A47;
+}
+.para1 {
+    font-size: 17px;
+    font-weight: 500;
+    opacity: 0.8;
+}
+.first-btn {
+    width: 180px;
+    background-color: #eb4d4b;
+    color: whitesmoke;
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+    font-size: 17px;
+    font-weight: 500;
+    opacity: 0.9;
+}
+.para2 {
+    font-size: 15px;
+    font-weight: 500;
+    opacity: 0.8;
+}
+.second-heading {
+    font-size: 50px;
+    color: #f0932b;
+    font-family: 'Roboto', sans-serif;
+}
+.right-div1 {
+    width: 40%;
+}
+.right-div1 img {
+    width: 100%;
+}
+
+/*------------second section start---------------*/
+.second-section {
+    margin: 10%; 
+}
+.second-section h1 {
+    font-family: 'Poppins', sans-serif;
+}
+.first-span {
+    color: #182C61;
+}
+.second-span {
+    color: #f0932b;   
+}
+.third-heading {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 900;
+}
+.card {
+    display: flex;
+    justify-content: space-around;   
+}
+.card1 {
+    width: 20%;
+    background-color: #d1d8e0;
+    padding: 25px;
+    border-radius: 10px;
+}
+.card1 h3 {
+    font-size: 25px;
+}
+.card1 img {
+    width: 50%;
+    text-align: left;
+}
+.card2 {
+    width: 20%;
+    background-color: #FDA7DF;
+    padding: 25px;
+    border-radius: 10px;
+}
+.card2 h3 {
+    font-size: 25px;
+}
+.card2 img {
+    width: 50%;
+}
+.card3 {
+    width: 20%;
+    background-color: #FEA47F;
+    padding: 25px;
+    border-radius: 10px;
+}
+.card3 h3 {
+    font-size: 25px;
+}
+.card3 img {
+    width: 50%;
+}
+.card p {
+    font-size: 17px;
+    font-weight: 500;
+    opacity: 0.8;  
+}
+
+/*------------third section start---------------*/
+.third-section {
+    display: flex;
+    justify-content: space-around;
+    margin: 10%;  
+}
+.left-div2 {
+    width: 40%;
+}
+.left-div2 img {
+    width: 100%;
+}
+.right-div2 {
+    width: 40%;
+    text-align: left;
+}
+.right-div2 h1 {
+    font-size: 40px;
+    color: #2C3A47;
+    margin: 0;   
+}
+.right-div2 p {
+    font-size: 17px;
+    font-weight: 500;
+    opacity: 0.8;
+}
+.second-btn {
+    width: 250px;
+    background-color: #eb4d4b;
+    color: whitesmoke;
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+    font-size: 17px;
+    font-weight: 500;
+    opacity: 0.9;
+}
+
+/*-------------fourth section start------------*/
+.fourth-section {
+    display: flex;
+    justify-content: space-around;
+    margin: 10%;
+}
+.fourth-section-heading {
+    font-size: 40px;
+    color: #2C3A47;
+    margin: 0;
+}
+.left-div3 p {
+    font-size: 17px;
+    font-weight: 500;
+    opacity: 0.8;  
+}
+.left-div3 {
+    width: 40%;
+}
+.right-div3 {
+    width: 40%;
+}
+.right-div3 img {
+    width: 100%;
+}
+
+/*------------fifth section starts here----------------*/
+.fifth-section-heading {
+    text-align: center;
+}
+.fifth-section {
+    display: flex;
+    justify-content: space-around;
+    margin: 10%;
+}
+.reward-heading {
+    color: #eb4d4b;
+}
+.success-heading {
+    color: #130f40;
+}
+.right-div4 h2 {
+    color:#2C3A47;
+    font-size: 30px;
+}
+.right-div4 p {
+    font-size: 17px;
+    font-weight: 500;
+    opacity: 0.8;
+}
+.left-div4 {
+    width: 40%;
+}
+.left-div4 img {
+    width: 100%;
+}
+.right-div4 {
+    width: 40%;
+}
+.last-btn {
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/*------------fifth section ends here----------------*/
+
+footer {
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+    padding: 30px;   
+}
+footer h1 {
+    font-family: 'Lobster', cursive;
+}
+.mission-end {
+    color:#eb4d4b ;
+}
+footer p {
+    opacity: 0.5;
+}
